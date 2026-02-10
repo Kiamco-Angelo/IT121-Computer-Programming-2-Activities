@@ -1,4 +1,4 @@
-fullname = "Angelo Kiamco"          
+fullname = "Mary Justine Sta. Ana"          
 age = 19                       
 height = 1.70                  
 currently_working = False      
